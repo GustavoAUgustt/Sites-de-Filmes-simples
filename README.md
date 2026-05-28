@@ -19,9 +19,9 @@ O site possui:
 
 # 🚀 Tecnologias Utilizadas
 
-* HTML5
+* HTML
 * CSS3
-* JavaScript
+* JavaScript Basico
 
 ---
 
@@ -39,13 +39,9 @@ site-filmes/
 
 # ⚙️ Como Executar
 
-## 1. Clone ou baixe o projeto
+## 1. baixe o projeto
 
-```bash
-git clone https://github.com/seuusuario/site-filmes.git
-```
-
-ou apenas baixe os arquivos manualmente.
+apenas baixe os arquivos manualmente.
 
 ---
 
